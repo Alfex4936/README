@@ -4,10 +4,10 @@ Main developers
 @adfad666 
 @uberlaggydarwin
 
-contributors:
+contributors(people who have commited directly):
 eagleeyetom
 
-helpers: CallMeVentus
+helpers(people who grab diffs for us and help in IRC): CallMeVentus
 
 Contributions from:
 the CyanogenMod project
