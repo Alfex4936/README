@@ -2,6 +2,7 @@ Xperia SP - AOSP Project
 
 Main developers
 @adfad666 
+
 @uberlaggydarwin
 
 contributors(people who have commited directly):
@@ -16,3 +17,5 @@ Sony Mobile
 Android Open Source Project
 
 Fork us and submit your changes and send a pull request and ping me @uberlaggydarwin
+
+Get builds at BrinTaylor.info/Android/CM/
