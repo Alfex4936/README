@@ -21,16 +21,21 @@ Camera  | 8MPx, LED Flash
 Project INFO
 ======
 
-Main developers
+Main developers (got it booting and did a lot of bringup)
 
 @adfad666 
 
 @uberlaggydarwin
 
-contributors(people who have commited directly):
-eagleeyetom
 
-helpers(people who grab diffs for us and help in IRC): CallMeVentus
+
+Contributors(people who have commited directly):
+
+@kali- from FreeXperiaProject for a large amount of help with porting/questions and  some commits
+
+@eagleeyetom
+
+Helpers(people who grab diffs for us and help in IRC): CallMeVentus
 
 Contributions from:
 the CyanogenMod project
