@@ -47,6 +47,7 @@ Fork us and submit your changes and send a pull request and ping me @uberlaggyda
 
 Get builds at BrinTaylor.info/Android/CM/
 
+
 Working:
 
 Screen
@@ -57,9 +58,11 @@ Bluetooth
 Headphones
 Torch
 
+
+
 Not working:
 
 WiFi
 Camera
 Vibration
-FM Radio
+FM Radio (disabled will be enabled later)
