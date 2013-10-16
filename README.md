@@ -8,7 +8,7 @@ It was announced on 18 March 2013.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | 1.7GHz Dual-Core MSM8970T
+CPU     | 1.7GHz Dual-Core MSM8960T
 GPU     | Adreno 320
 Memory  | 1GB RAM
 Storage | 8GB
@@ -47,4 +47,19 @@ Fork us and submit your changes and send a pull request and ping me @uberlaggyda
 
 Get builds at BrinTaylor.info/Android/CM/
 
+Working:
 
+Screen
+Telephony
+Data
+Audio
+Bluetooth
+Headphones
+Torch
+
+Not working:
+
+WiFi
+Camera
+Vibration
+FM Radio
