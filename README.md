@@ -58,11 +58,9 @@ Bluetooth/
 Headphones/
 Torch/
 Storage
-
+WiFi/
+Vibration/
 
 Not working:
-
-WiFi (kernel error but is being worked on)/
 Camera/
-Vibration/
 FM Radio (disabled - will be enabled later)/
