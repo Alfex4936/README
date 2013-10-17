@@ -50,19 +50,19 @@ Get builds at BrinTaylor.info/Android/CM/
 
 Working:
 
-Screen
-Telephony
-Data
-Audio
-Bluetooth
-Headphones
-Torch
-
+Screen/
+Telephony/
+Data/
+Audio/
+Bluetooth/
+Headphones/
+Torch/
+Storage
 
 
 Not working:
 
-WiFi
-Camera
-Vibration
-FM Radio (disabled will be enabled later)
+WiFi (kernel error but is being worked on)/
+Camera/
+Vibration/
+FM Radio (disabled - will be enabled later)/
