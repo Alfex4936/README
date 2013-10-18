@@ -60,7 +60,7 @@ Torch/
 Storage
 WiFi/
 Vibration/
+Camera/
 
 Not working:
-Camera/
 FM Radio (disabled - will be enabled later)/
